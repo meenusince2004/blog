@@ -1,0 +1,4 @@
+baseURL = 'https://meenu.github.io/'
+languageCode = 'en-us'
+title = 'Meenus Coding Adventures'
+theme = 'paige'

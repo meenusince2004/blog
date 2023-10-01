@@ -1,0 +1,4 @@
+[submodule "meecodadv/public"]
+	path = meecodadv/public
+	url = https://github.com/meenusince2004/meenu.github.io
+	branch = main
